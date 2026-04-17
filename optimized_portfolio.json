@@ -1,0 +1,161 @@
+{
+  "generated": "2026-02-04T00:42:54.280551",
+  "total_assets": 22,
+  "total_allocation": 0.6200000000000003,
+  "assets": [
+    {
+      "name": "Ripple",
+      "symbol": "XRPUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Filecoin",
+      "symbol": "FILUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Polkadot",
+      "symbol": "DOTUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Avalanche",
+      "symbol": "AVAXUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINKUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOLUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Near",
+      "symbol": "NEARUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNBUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGEUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Cardano",
+      "symbol": "ADAUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "MultiversX",
+      "symbol": "EGLDUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Neo",
+      "symbol": "NEOUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Pendle",
+      "symbol": "PENDLEUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Illuvium",
+      "symbol": "ILVUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Arweave",
+      "symbol": "ARUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "BCH",
+      "symbol": "BCHUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "ETC",
+      "symbol": "ETCUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "ENS",
+      "symbol": "ENSUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "BSV",
+      "symbol": "BSVUSDT",
+      "allocation": 0.03,
+      "tier": "\u2b50 PREMIUM",
+      "score": 100
+    },
+    {
+      "name": "Chiliz",
+      "symbol": "CHZUSDT",
+      "allocation": 0.01,
+      "tier": "\u2705 QUALITY",
+      "score": 75
+    },
+    {
+      "name": "BREV",
+      "symbol": "BREVUSDT",
+      "allocation": 0.01,
+      "tier": "\u2705 QUALITY",
+      "score": 70
+    }
+  ]
+}

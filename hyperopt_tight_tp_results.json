@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-02-05T17:48:01.611071",
+  "n_trials": 300,
+  "best_params": {
+    "take_profit_pct": 0.07,
+    "stop_loss_pct": 0.015,
+    "signal_threshold": 0.5,
+    "leverage": 5,
+    "lookback": 200
+  },
+  "best_metrics": {
+    "total_return": -10.446377619070322,
+    "win_rate": 16.666666666666664,
+    "total_trades": 6,
+    "max_drawdown": 35.16833218981693,
+    "sharpe_ratio": -1.4936913956515812,
+    "risk_reward": 4.666666666666667,
+    "composite_score": -12.480674463849422
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "strategy": "inverted_signals",
+  "description": "Inverted technical signals (BUY\u2192SHORT, SELL\u2192LONG)",
+  "best_params": {
+    "leverage": 3,
+    "signal_threshold": 0.46111703684858124,
+    "stop_loss_pct": 0.026316789358841627,
+    "take_profit_pct": 0.10654698317550347,
+    "lookback_periods": 150
+  },
+  "best_return": 3.0482920243255647,
+  "n_trials": 50,
+  "top_10": [
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.46111703684858124,
+        "stop_loss_pct": 0.026316789358841627,
+        "take_profit_pct": 0.10654698317550347,
+        "lookback_periods": 150
+      },
+      "return": 3.0482920243255647
+    },
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.47021310977804864,
+        "stop_loss_pct": 0.026201075906270837,
+        "take_profit_pct": 0.10508582580377512,
+        "lookback_periods": 150
+      },
+      "return": 2.839443961113593
+    },
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.4700905618679121,
+        "stop_loss_pct": 0.02623248824790432,
+        "take_profit_pct": 0.10512632188988995,
+        "lookback_periods": 150
+      },
+      "return": 2.839443961113593
+    },
+    {
+      "params": {
+        "leverage": 4,
+        "signal_threshold": 0.46156472402379384,
+        "stop_loss_pct": 0.029331099049231056,
+        "take_profit_pct": 0.08662452469117488,
+        "lookback_periods": 150
+      },
+      "return": 2.0777001023465345
+    },
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.5604598709461454,
+        "stop_loss_pct": 0.028335992773558437,
+        "take_profit_pct": 0.10461300065489607,
+        "lookback_periods": 150
+      },
+      "return": 1.7449479497267928
+    },
+    {
+      "params": {
+        "leverage": 5,
+        "signal_threshold": 0.5811393227518523,
+        "stop_loss_pct": 0.02722751609986842,
+        "take_profit_pct": 0.09046673245145775,
+        "lookback_periods": 150
+      },
+      "return": 1.5237122877324327
+    },
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.5982327659902258,
+        "stop_loss_pct": 0.02650686542038913,
+        "take_profit_pct": 0.11804908036254308,
+        "lookback_periods": 150
+      },
+      "return": 0.9279097704166633
+    },
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.4914191713122642,
+        "stop_loss_pct": 0.020766009377032556,
+        "take_profit_pct": 0.12010267914469211,
+        "lookback_periods": 150
+      },
+      "return": 0.876261027422279
+    },
+    {
+      "params": {
+        "leverage": 3,
+        "signal_threshold": 0.5546684209145298,
+        "stop_loss_pct": 0.030873369785413406,
+        "take_profit_pct": 0.1024136997920615,
+        "lookback_periods": 150
+      },
+      "return": 0.8330301961378609
+    },
+    {
+      "params": {
+        "leverage": 4,
+        "signal_threshold": 0.5172876036423122,
+        "stop_loss_pct": 0.03420112579777982,
+        "take_profit_pct": 0.09392505470092645,
+        "lookback_periods": 150
+      },
+      "return": 0.5648058753472287
+    }
+  ]
+}

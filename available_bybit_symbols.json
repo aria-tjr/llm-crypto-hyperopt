@@ -1,0 +1,2142 @@
+[
+  {
+    "symbol": "0GUSDT",
+    "name": "0G",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000000BABYDOGEUSDT",
+    "name": "1000000BABYDOGE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000000CHEEMSUSDT",
+    "name": "1000000CHEEMS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000000MOGUSDT",
+    "name": "1000000MOG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "10000ELONUSDT",
+    "name": "10000ELON",
+    "status": "Trading"
+  },
+  {
+    "symbol": "10000QUBICUSDT",
+    "name": "10000QUBIC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "10000SATSUSDT",
+    "name": "10000SATS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000BONKUSDT",
+    "name": "1000BONK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000BTTUSDT",
+    "name": "1000BTT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000CATUSDT",
+    "name": "1000CAT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000FLOKIUSDT",
+    "name": "1000FLOKI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000LUNCUSDT",
+    "name": "1000LUNC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000NEIROCTOUSDT",
+    "name": "1000NEIROCTO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000PEPEUSDT",
+    "name": "1000PEPE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000RATSUSDT",
+    "name": "1000RATS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000TAGUSDT",
+    "name": "1000TAG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000TOSHIUSDT",
+    "name": "1000TOSHI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000TURBOUSDT",
+    "name": "1000TURBO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000XUSDT",
+    "name": "1000X",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1000XECUSDT",
+    "name": "1000XEC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "1INCHUSDT",
+    "name": "1INCH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "2ZUSDT",
+    "name": "2Z",
+    "status": "Trading"
+  },
+  {
+    "symbol": "4USDT",
+    "name": "4",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AUSDT",
+    "name": "A",
+    "status": "Trading"
+  },
+  {
+    "symbol": "A2ZUSDT",
+    "name": "A2Z",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AAVEUSDT",
+    "name": "AAVE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ACEUSDT",
+    "name": "ACE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ACHUSDT",
+    "name": "ACH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ACTUSDT",
+    "name": "ACT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ACUUSDT",
+    "name": "ACU",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ACXUSDT",
+    "name": "ACX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ADAUSDT",
+    "name": "ADA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AERGOUSDT",
+    "name": "AERGO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AEROUSDT",
+    "name": "AERO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AEVOUSDT",
+    "name": "AEVO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AGIUSDT",
+    "name": "AGI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AGLDUSDT",
+    "name": "AGLD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AINUSDT",
+    "name": "AIN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AIOUSDT",
+    "name": "AIO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AIOZUSDT",
+    "name": "AIOZ",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AIXBTUSDT",
+    "name": "AIXBT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AKEUSDT",
+    "name": "AKE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AKTUSDT",
+    "name": "AKT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ALCHUSDT",
+    "name": "ALCH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ALICEUSDT",
+    "name": "ALICE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ALLOUSDT",
+    "name": "ALLO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ALPINEUSDT",
+    "name": "ALPINE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ALTUSDT",
+    "name": "ALT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ALUUSDT",
+    "name": "ALU",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ANIMEUSDT",
+    "name": "ANIME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ANKRUSDT",
+    "name": "ANKR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "APEUSDT",
+    "name": "APE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "APEXUSDT",
+    "name": "APEX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "API3USDT",
+    "name": "API3",
+    "status": "Trading"
+  },
+  {
+    "symbol": "APRUSDT",
+    "name": "APR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "APTUSDT",
+    "name": "APT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ARUSDT",
+    "name": "AR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ARCUSDT",
+    "name": "ARC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ARIAUSDT",
+    "name": "ARIA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ARKUSDT",
+    "name": "ARK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ARKMUSDT",
+    "name": "ARKM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ARPAUSDT",
+    "name": "ARPA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ASPUSDT",
+    "name": "ASP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ASRUSDT",
+    "name": "ASR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ASTERUSDT",
+    "name": "ASTER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ASTRUSDT",
+    "name": "ASTR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ATUSDT",
+    "name": "AT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ATHUSDT",
+    "name": "ATH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AUCTIONUSDT",
+    "name": "AUCTION",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AVAUSDT",
+    "name": "AVA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AVAAIUSDT",
+    "name": "AVAAI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AVLUSDT",
+    "name": "AVL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AVNTUSDT",
+    "name": "AVNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AWEUSDT",
+    "name": "AWE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AXLUSDT",
+    "name": "AXL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "AXSUSDT",
+    "name": "AXS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BUSDT",
+    "name": "B",
+    "status": "Trading"
+  },
+  {
+    "symbol": "B2USDT",
+    "name": "B2",
+    "status": "Trading"
+  },
+  {
+    "symbol": "B3USDT",
+    "name": "B3",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BABYUSDT",
+    "name": "BABY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BANUSDT",
+    "name": "BAN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BANANAUSDT",
+    "name": "BANANA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BANANAS31USDT",
+    "name": "BANANAS31",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BANDUSDT",
+    "name": "BAND",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BANKUSDT",
+    "name": "BANK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BARDUSDT",
+    "name": "BARD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BATUSDT",
+    "name": "BAT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BBUSDT",
+    "name": "BB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BCHUSDT",
+    "name": "BCH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BEAMUSDT",
+    "name": "BEAM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BEATUSDT",
+    "name": "BEAT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BELUSDT",
+    "name": "BEL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BERAUSDT",
+    "name": "BERA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BIGTIMEUSDT",
+    "name": "BIGTIME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BIOUSDT",
+    "name": "BIO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BIRBUSDT",
+    "name": "BIRB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BLASTUSDT",
+    "name": "BLAST",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BLESSUSDT",
+    "name": "BLESS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BLUAIUSDT",
+    "name": "BLUAI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BLURUSDT",
+    "name": "BLUR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BMTUSDT",
+    "name": "BMT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "name": "BNB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BNTUSDT",
+    "name": "BNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BOBAUSDT",
+    "name": "BOBA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BOBBOBUSDT",
+    "name": "BOBBOB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BOMEUSDT",
+    "name": "BOME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BRUSDT",
+    "name": "BR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BRETTUSDT",
+    "name": "BRETT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BREVUSDT",
+    "name": "BREV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BROCCOLIUSDT",
+    "name": "BROCCOLI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BSUUSDT",
+    "name": "BSU",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BSVUSDT",
+    "name": "BSV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BTCUSDT",
+    "name": "BTC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "BTRUSDT",
+    "name": "BTR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CUSDT",
+    "name": "C",
+    "status": "Trading"
+  },
+  {
+    "symbol": "C98USDT",
+    "name": "C98",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "name": "CAKE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CAMPUSDT",
+    "name": "CAMP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CARVUSDT",
+    "name": "CARV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CATIUSDT",
+    "name": "CATI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CCUSDT",
+    "name": "CC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CELOUSDT",
+    "name": "CELO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CETUSUSDT",
+    "name": "CETUS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CFXUSDT",
+    "name": "CFX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CGPTUSDT",
+    "name": "CGPT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CHILLGUYUSDT",
+    "name": "CHILLGUY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CHZUSDT",
+    "name": "CHZ",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CLANKERUSDT",
+    "name": "CLANKER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CLOUSDT",
+    "name": "CLO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CLOUDUSDT",
+    "name": "CLOUD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COAIUSDT",
+    "name": "COAI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COMMONUSDT",
+    "name": "COMMON",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COMPUSDT",
+    "name": "COMP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COOKUSDT",
+    "name": "COOK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COOKIEUSDT",
+    "name": "COOKIE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COREUSDT",
+    "name": "CORE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COTIUSDT",
+    "name": "COTI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "COWUSDT",
+    "name": "COW",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CROUSDT",
+    "name": "CRO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CROSSUSDT",
+    "name": "CROSS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CRVUSDT",
+    "name": "CRV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CTKUSDT",
+    "name": "CTK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CTSIUSDT",
+    "name": "CTSI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CUDISUSDT",
+    "name": "CUDIS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CVCUSDT",
+    "name": "CVC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CVXUSDT",
+    "name": "CVX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "CYSUSDT",
+    "name": "CYS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DASHUSDT",
+    "name": "DASH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DBRUSDT",
+    "name": "DBR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DEEPUSDT",
+    "name": "DEEP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DEGENUSDT",
+    "name": "DEGEN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DENTUSDT",
+    "name": "DENT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DEXEUSDT",
+    "name": "DEXE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DGBUSDT",
+    "name": "DGB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DIAUSDT",
+    "name": "DIA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DODOUSDT",
+    "name": "DODO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DOGUSDT",
+    "name": "DOG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DOGEUSDT",
+    "name": "DOGE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DOLOUSDT",
+    "name": "DOLO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DOODUSDT",
+    "name": "DOOD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "name": "DOT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DRIFTUSDT",
+    "name": "DRIFT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DUSKUSDT",
+    "name": "DUSK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DYDXUSDT",
+    "name": "DYDX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "DYMUSDT",
+    "name": "DYM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "EDENUSDT",
+    "name": "EDEN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "EDUUSDT",
+    "name": "EDU",
+    "status": "Trading"
+  },
+  {
+    "symbol": "EGLDUSDT",
+    "name": "EGLD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ELSAUSDT",
+    "name": "ELSA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ENAUSDT",
+    "name": "ENA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ENJUSDT",
+    "name": "ENJ",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ENSUSDT",
+    "name": "ENS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ENSOUSDT",
+    "name": "ENSO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "EPICUSDT",
+    "name": "EPIC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ERAUSDT",
+    "name": "ERA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ESUSDT",
+    "name": "ES",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ESPORTSUSDT",
+    "name": "ESPORTS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ETCUSDT",
+    "name": "ETC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "name": "ETH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ETHBTCUSDT",
+    "name": "ETHBTC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ETHFIUSDT",
+    "name": "ETHFI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "EULUSDT",
+    "name": "EUL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "EVAAUSDT",
+    "name": "EVAA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FUSDT",
+    "name": "F",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FARTCOINUSDT",
+    "name": "FARTCOIN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FFUSDT",
+    "name": "FF",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FHEUSDT",
+    "name": "FHE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FIDAUSDT",
+    "name": "FIDA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FIGHTUSDT",
+    "name": "FIGHT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FIOUSDT",
+    "name": "FIO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FLOCKUSDT",
+    "name": "FLOCK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FLOWUSDT",
+    "name": "FLOW",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FLRUSDT",
+    "name": "FLR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FLUIDUSDT",
+    "name": "FLUID",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FLUXUSDT",
+    "name": "FLUX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FOGOUSDT",
+    "name": "FOGO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FOLKSUSDT",
+    "name": "FOLKS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "FORMUSDT",
+    "name": "FORM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GALAUSDT",
+    "name": "GALA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GASUSDT",
+    "name": "GAS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GIGAUSDT",
+    "name": "GIGA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GIGGLEUSDT",
+    "name": "GIGGLE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GLMUSDT",
+    "name": "GLM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GMTUSDT",
+    "name": "GMT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GMXUSDT",
+    "name": "GMX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GNOUSDT",
+    "name": "GNO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GOATUSDT",
+    "name": "GOAT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GODSUSDT",
+    "name": "GODS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GPSUSDT",
+    "name": "GPS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GRIFFAINUSDT",
+    "name": "GRIFFAIN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GRTUSDT",
+    "name": "GRT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "GUNUSDT",
+    "name": "GUN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HUSDT",
+    "name": "H",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HAEDALUSDT",
+    "name": "HAEDAL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HANAUSDT",
+    "name": "HANA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HBARUSDT",
+    "name": "HBAR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HEIUSDT",
+    "name": "HEI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HEMIUSDT",
+    "name": "HEMI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HFTUSDT",
+    "name": "HFT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HIGHUSDT",
+    "name": "HIGH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HIPPOUSDT",
+    "name": "HIPPO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HIVEUSDT",
+    "name": "HIVE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HMSTRUSDT",
+    "name": "HMSTR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HNTUSDT",
+    "name": "HNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HOLOUSDT",
+    "name": "HOLO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HOMEUSDT",
+    "name": "HOME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HOOKUSDT",
+    "name": "HOOK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HPOS10IUSDT",
+    "name": "HPOS10I",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HUMAUSDT",
+    "name": "HUMA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HYPEUSDT",
+    "name": "HYPE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "HYPERUSDT",
+    "name": "HYPER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ICNTUSDT",
+    "name": "ICNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ICPUSDT",
+    "name": "ICP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ICXUSDT",
+    "name": "ICX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IDUSDT",
+    "name": "ID",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IDEXUSDT",
+    "name": "IDEX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ILVUSDT",
+    "name": "ILV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IMXUSDT",
+    "name": "IMX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "INUSDT",
+    "name": "IN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "INITUSDT",
+    "name": "INIT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "INJUSDT",
+    "name": "INJ",
+    "status": "Trading"
+  },
+  {
+    "symbol": "INXUSDT",
+    "name": "INX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IOUSDT",
+    "name": "IO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IOSTUSDT",
+    "name": "IOST",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IOTAUSDT",
+    "name": "IOTA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IOTXUSDT",
+    "name": "IOTX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IPUSDT",
+    "name": "IP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "IRYSUSDT",
+    "name": "IRYS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "JASMYUSDT",
+    "name": "JASMY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "JCTUSDT",
+    "name": "JCT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "JELLYJELLYUSDT",
+    "name": "JELLYJELLY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "JSTUSDT",
+    "name": "JST",
+    "status": "Trading"
+  },
+  {
+    "symbol": "JTOUSDT",
+    "name": "JTO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "JUPUSDT",
+    "name": "JUP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KAIAUSDT",
+    "name": "KAIA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KAITOUSDT",
+    "name": "KAITO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KASUSDT",
+    "name": "KAS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KAVAUSDT",
+    "name": "KAVA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KERNELUSDT",
+    "name": "KERNEL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KGENUSDT",
+    "name": "KGEN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KITEUSDT",
+    "name": "KITE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KMNOUSDT",
+    "name": "KMNO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KNCUSDT",
+    "name": "KNC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "KSMUSDT",
+    "name": "KSM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "L3USDT",
+    "name": "L3",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LAUSDT",
+    "name": "LA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LABUSDT",
+    "name": "LAB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LDOUSDT",
+    "name": "LDO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LIGHTUSDT",
+    "name": "LIGHT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LINEAUSDT",
+    "name": "LINEA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LINKUSDT",
+    "name": "LINK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LISTAUSDT",
+    "name": "LISTA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LITUSDT",
+    "name": "LIT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LPTUSDT",
+    "name": "LPT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LQTYUSDT",
+    "name": "LQTY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LRCUSDT",
+    "name": "LRC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LSKUSDT",
+    "name": "LSK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LUMIAUSDT",
+    "name": "LUMIA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LUNA2USDT",
+    "name": "LUNA2",
+    "status": "Trading"
+  },
+  {
+    "symbol": "LYNUSDT",
+    "name": "LYN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MUSDT",
+    "name": "M",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MAGICUSDT",
+    "name": "MAGIC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MAGMAUSDT",
+    "name": "MAGMA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MANAUSDT",
+    "name": "MANA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MANTAUSDT",
+    "name": "MANTA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MASKUSDT",
+    "name": "MASK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MAVUSDT",
+    "name": "MAV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MAVIAUSDT",
+    "name": "MAVIA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MBOXUSDT",
+    "name": "MBOX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MEUSDT",
+    "name": "ME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MELANIAUSDT",
+    "name": "MELANIA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MEMEUSDT",
+    "name": "MEME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MERLUSDT",
+    "name": "MERL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "METUSDT",
+    "name": "MET",
+    "status": "Trading"
+  },
+  {
+    "symbol": "METISUSDT",
+    "name": "METIS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MEWUSDT",
+    "name": "MEW",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MINAUSDT",
+    "name": "MINA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MIRAUSDT",
+    "name": "MIRA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MITOUSDT",
+    "name": "MITO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MLNUSDT",
+    "name": "MLN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MMTUSDT",
+    "name": "MMT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MMTTSTUSDT",
+    "name": "MMTTST",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MNTUSDT",
+    "name": "MNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOCAUSDT",
+    "name": "MOCA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MONUSDT",
+    "name": "MON",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOODENGUSDT",
+    "name": "MOODENG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MORPHOUSDT",
+    "name": "MORPHO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOTHER1USDT",
+    "name": "MOTHER1",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOTHER2USDT",
+    "name": "MOTHER2",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOTHER3USDT",
+    "name": "MOTHER3",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOVEUSDT",
+    "name": "MOVE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MOVRUSDT",
+    "name": "MOVR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MTLUSDT",
+    "name": "MTL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MUBARAKUSDT",
+    "name": "MUBARAK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "MYXUSDT",
+    "name": "MYX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NAORISUSDT",
+    "name": "NAORIS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NCUSDT",
+    "name": "NC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NEARUSDT",
+    "name": "NEAR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NEOUSDT",
+    "name": "NEO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NFPUSDT",
+    "name": "NFP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NIGHTUSDT",
+    "name": "NIGHT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NILUSDT",
+    "name": "NIL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NMRUSDT",
+    "name": "NMR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NOMUSDT",
+    "name": "NOM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NOTUSDT",
+    "name": "NOT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NSUSDT",
+    "name": "NS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NTRNUSDT",
+    "name": "NTRN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "NXPCUSDT",
+    "name": "NXPC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OBTUSDT",
+    "name": "OBT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OGUSDT",
+    "name": "OG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OKBUSDT",
+    "name": "OKB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OLUSDT",
+    "name": "OL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OMUSDT",
+    "name": "OM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ONDOUSDT",
+    "name": "ONDO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ONEUSDT",
+    "name": "ONE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ONGUSDT",
+    "name": "ONG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ONTUSDT",
+    "name": "ONT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OPUSDT",
+    "name": "OP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "OPENUSDT",
+    "name": "OPEN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ORBSUSDT",
+    "name": "ORBS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ORCAUSDT",
+    "name": "ORCA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ORDERUSDT",
+    "name": "ORDER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ORDIUSDT",
+    "name": "ORDI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PARTIUSDT",
+    "name": "PARTI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PAXGUSDT",
+    "name": "PAXG",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PEAQUSDT",
+    "name": "PEAQ",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PENDLEUSDT",
+    "name": "PENDLE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PEOPLEUSDT",
+    "name": "PEOPLE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PHAUSDT",
+    "name": "PHA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PIEVERSEUSDT",
+    "name": "PIEVERSE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PIPPINUSDT",
+    "name": "PIPPIN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PIXELUSDT",
+    "name": "PIXEL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PLAYSOUTUSDT",
+    "name": "PLAYSOUT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PLUMEUSDT",
+    "name": "PLUME",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PNUTUSDT",
+    "name": "PNUT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "POLUSDT",
+    "name": "POL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "POLYXUSDT",
+    "name": "POLYX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PONKEUSDT",
+    "name": "PONKE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "POPCATUSDT",
+    "name": "POPCAT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PORTALUSDT",
+    "name": "PORTAL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "POWERUSDT",
+    "name": "POWER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "POWRUSDT",
+    "name": "POWR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PRAIUSDT",
+    "name": "PRAI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PREFAST01USDT",
+    "name": "PREFAST01",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PRETEST03USDT",
+    "name": "PRETEST03",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PROMUSDT",
+    "name": "PROM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PROMPTUSDT",
+    "name": "PROMPT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PROVEUSDT",
+    "name": "PROVE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PTBUSDT",
+    "name": "PTB",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PUFFERUSDT",
+    "name": "PUFFER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PUMPBTCUSDT",
+    "name": "PUMPBTC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PUMPFUNUSDT",
+    "name": "PUMPFUN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PUNDIXUSDT",
+    "name": "PUNDIX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PYRUSDT",
+    "name": "PYR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "PYTHUSDT",
+    "name": "PYTH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "QUSDT",
+    "name": "Q",
+    "status": "Trading"
+  },
+  {
+    "symbol": "QNTUSDT",
+    "name": "QNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "QTUMUSDT",
+    "name": "QTUM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RAREUSDT",
+    "name": "RARE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RAVEUSDT",
+    "name": "RAVE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RAYUSDT",
+    "name": "RAY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RAYDIUMUSDT",
+    "name": "RAYDIUM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RDNTUSDT",
+    "name": "RDNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RECALLUSDT",
+    "name": "RECALL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "REDUSDT",
+    "name": "RED",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RENDERUSDT",
+    "name": "RENDER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RESOLVUSDT",
+    "name": "RESOLV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "REZUSDT",
+    "name": "REZ",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RIVERUSDT",
+    "name": "RIVER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RLCUSDT",
+    "name": "RLC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RLSUSDT",
+    "name": "RLS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RLUSDUSDT",
+    "name": "RLUSD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ROAMUSDT",
+    "name": "ROAM",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RONINUSDT",
+    "name": "RONIN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "ROSEUSDT",
+    "name": "ROSE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RPLUSDT",
+    "name": "RPL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RSRUSDT",
+    "name": "RSR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "RUNEUSDT",
+    "name": "RUNE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SAGAUSDT",
+    "name": "SAGA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SAHARAUSDT",
+    "name": "SAHARA",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SANDUSDT",
+    "name": "SAND",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SAPIENUSDT",
+    "name": "SAPIEN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SAROSUSDT",
+    "name": "SAROS",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SDUSDT",
+    "name": "SD",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SENTUSDT",
+    "name": "SENT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SFPUSDT",
+    "name": "SFP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SHELLUSDT",
+    "name": "SHELL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SHIB1000USDT",
+    "name": "SHIB1000",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SIGNUSDT",
+    "name": "SIGN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SIRENUSDT",
+    "name": "SIREN",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SKLUSDT",
+    "name": "SKL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SKRUSDT",
+    "name": "SKR",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SKYUSDT",
+    "name": "SKY",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SKYAIUSDT",
+    "name": "SKYAI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SLPUSDT",
+    "name": "SLP",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SNTUSDT",
+    "name": "SNT",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SNXUSDT",
+    "name": "SNX",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOLUSDT",
+    "name": "SOL",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOLAYERUSDT",
+    "name": "SOLAYER",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOLVUSDT",
+    "name": "SOLV",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOMIUSDT",
+    "name": "SOMI",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SONICUSDT",
+    "name": "SONIC",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOONUSDT",
+    "name": "SOON",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOPHUSDT",
+    "name": "SOPH",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SOSOUSDT",
+    "name": "SOSO",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SPACEUSDT",
+    "name": "SPACE",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SPKUSDT",
+    "name": "SPK",
+    "status": "Trading"
+  },
+  {
+    "symbol": "SPORTFUNUSDT",
+    "name": "SPORTFUN",
+    "status": "Trading"
+  }
+]

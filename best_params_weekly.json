@@ -1,0 +1,14 @@
+{
+  "best_params": {
+    "max_leverage": 7,
+    "signal_threshold": 0.6802857225639665,
+    "stop_loss_pct": 0.029639878836228106,
+    "take_profit_pct": 0.12190609389379256,
+    "lookback_periods": 100
+  },
+  "best_return": 0.0,
+  "optimization_date": "2026-02-03T12:01:42.944264",
+  "data_window_days": 30,
+  "n_trials": 300,
+  "assets_optimized": 0
+}

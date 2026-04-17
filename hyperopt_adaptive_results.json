@@ -1,0 +1,176 @@
+{
+  "strategy": "inverted_signals_with_adaptive_risk",
+  "description": "Inverted technical signals (BUY\u2192SHORT, SELL\u2192LONG) with adaptive threshold, stop loss, and take profit",
+  "best_params": {
+    "leverage": 9,
+    "base_signal_threshold": 0.559558690640409,
+    "base_stop_loss_pct": 0.0344908187727953,
+    "base_take_profit_pct": 0.09791936908613422,
+    "lookback_periods": 200,
+    "volatility_high_mult": 1.1942230733682955,
+    "volatility_low_mult": 0.8631298955297158,
+    "atr_lookback": 30,
+    "atr_stop_loss_mult": 0.9887541784421866,
+    "volatility_tp_mult": 1.4265476002041508
+  },
+  "best_return": 106.82316182879545,
+  "n_trials": 200,
+  "adaptive_features": {
+    "adaptive_threshold": true,
+    "adaptive_stop_loss": true,
+    "adaptive_take_profit": true,
+    "description": "All risk parameters adapt to market volatility and ATR"
+  },
+  "top_10": [
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.559558690640409,
+        "base_stop_loss_pct": 0.0344908187727953,
+        "base_take_profit_pct": 0.09791936908613422,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.1942230733682955,
+        "volatility_low_mult": 0.8631298955297158,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9887541784421866,
+        "volatility_tp_mult": 1.4265476002041508
+      },
+      "return": 106.82316182879545
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5563769745059979,
+        "base_stop_loss_pct": 0.035068046742043286,
+        "base_take_profit_pct": 0.10228342501107346,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.1974712086177006,
+        "volatility_low_mult": 0.862393063715596,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9886479053195626,
+        "volatility_tp_mult": 1.4146659180188408
+      },
+      "return": 102.55695950934813
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5581791261362283,
+        "base_stop_loss_pct": 0.03355661995192232,
+        "base_take_profit_pct": 0.1009870869841828,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.179898617264296,
+        "volatility_low_mult": 0.8635528405412719,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9836120909263004,
+        "volatility_tp_mult": 1.4095732687747389
+      },
+      "return": 101.48308466666091
+    },
+    {
+      "params": {
+        "leverage": 8,
+        "base_signal_threshold": 0.5288060176334661,
+        "base_stop_loss_pct": 0.03131332773749486,
+        "base_take_profit_pct": 0.13266789710917307,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.1631940461397958,
+        "volatility_low_mult": 0.8619322883126888,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9694784329777731,
+        "volatility_tp_mult": 1.431871775897687
+      },
+      "return": 85.75536605062022
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5597550065368495,
+        "base_stop_loss_pct": 0.045587014834435495,
+        "base_take_profit_pct": 0.11310052347557495,
+        "lookback_periods": 150,
+        "volatility_high_mult": 1.4253008565197964,
+        "volatility_low_mult": 0.8012788363437653,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.8855136984692485,
+        "volatility_tp_mult": 1.4105416983698404
+      },
+      "return": 85.54307471579061
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.568839640477198,
+        "base_stop_loss_pct": 0.03991906945103471,
+        "base_take_profit_pct": 0.10290564349109096,
+        "lookback_periods": 150,
+        "volatility_high_mult": 1.486502105620401,
+        "volatility_low_mult": 0.7951493753861456,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9328787346646332,
+        "volatility_tp_mult": 1.4144326656252182
+      },
+      "return": 82.27651888558842
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5758116835595183,
+        "base_stop_loss_pct": 0.034924692989056295,
+        "base_take_profit_pct": 0.10477549037293742,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.2122946326641093,
+        "volatility_low_mult": 0.8731171065111152,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9973192802254404,
+        "volatility_tp_mult": 2.8263348956226664
+      },
+      "return": 82.13441310316247
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5695434774147905,
+        "base_stop_loss_pct": 0.036339288879305216,
+        "base_take_profit_pct": 0.10424529412617903,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.201171795276609,
+        "volatility_low_mult": 0.8620693749292665,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9978911435239111,
+        "volatility_tp_mult": 2.8187053716467583
+      },
+      "return": 81.96754197292896
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5747554059239028,
+        "base_stop_loss_pct": 0.03623164244371709,
+        "base_take_profit_pct": 0.10421617355995247,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.197993064464686,
+        "volatility_low_mult": 0.8682716256265388,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.996906177962502,
+        "volatility_tp_mult": 2.8160721520406287
+      },
+      "return": 81.69207601705973
+    },
+    {
+      "params": {
+        "leverage": 9,
+        "base_signal_threshold": 0.5734221628210053,
+        "base_stop_loss_pct": 0.034903622640050376,
+        "base_take_profit_pct": 0.1038285161681558,
+        "lookback_periods": 200,
+        "volatility_high_mult": 1.2111806401212795,
+        "volatility_low_mult": 0.8620739026073226,
+        "atr_lookback": 30,
+        "atr_stop_loss_mult": 0.9995962040520744,
+        "volatility_tp_mult": 2.852282134235383
+      },
+      "return": 81.17112666846128
+    }
+  ]
+}
